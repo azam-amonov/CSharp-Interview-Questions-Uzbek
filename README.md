@@ -24,12 +24,14 @@ Sifatli bo‘lishi uchun esa quyidagi qoidalarni inobatga olishingiz so‘raladi
 
 [Links](#links)
 
+- [Telegram]
 - [The Standard Team]
 - [Markdown] YouTube video
 - [Markdown sintaksis] Markdown documentation
 - [Savodxon] O‘zbek tilida imloviy va grammatik xatolarsiz yozish
 - [Template] Author [Richard Callaby]  
 
+[Telegram] : https://t.me/+OpchEIc2RDgzNjky
 [The Standard Team]: https://github.com/hassanhabib/The-Standard-Team/tree/main "Hassan Habib tomonlaridan 
 yozilgan"
 [Markdown]: https://youtu.be/ftOBvusMHjQ?si=CxTsARGqNmvHeu02 "Markdown-da yozish bo'yicha video darslik"
