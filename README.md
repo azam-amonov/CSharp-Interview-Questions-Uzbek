@@ -24,7 +24,7 @@ Sifatli bo‘lishi uchun esa quyidagi qoidalarni inobatga olishingiz so‘raladi
 
 [Links](#links)
 
-- [Telegram]
+- [Telegram] Chat guruhga o'tish
 - [The Standard Team]
 - [Markdown] YouTube video
 - [Markdown sintaksis] Markdown documentation
