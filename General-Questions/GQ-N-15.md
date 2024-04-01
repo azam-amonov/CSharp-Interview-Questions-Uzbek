@@ -1,3 +1,9 @@
+## Savol ¹ 15 - GQ Umumiy savollar
+
+---
+
+### Delegat nima?
+
 Delegat - bu methodga reference saqlaydigan o'zgaruvchi.Delegatlar funktsiya pointeri hisoblanadi va funksiya parametriga
 funksiya berish uchun foydalaniladi.
 Barcha delegatlar System.Delegate dan keladi. Delegat ham, u nazarda tutilgan method ham bir xil  bo'lishi mumkin.
