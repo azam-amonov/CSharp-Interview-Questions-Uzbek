@@ -11,10 +11,14 @@
             "id": "2cd6a678015b4a45",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Test uchun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test uchun"
             }
           },
           {
@@ -204,7 +208,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "2cd6a678015b4a45",
+  "active": "66252fcb805dd9c4",
   "lastOpenFiles": [
     "GitHub.md",
     "Test uchun.md",
