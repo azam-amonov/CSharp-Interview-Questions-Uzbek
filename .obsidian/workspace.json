@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "0359beaffead6c99",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
             "id": "69d4872dd5fbde02",
             "type": "leaf",
             "state": {
@@ -49,7 +59,8 @@
               "title": "GitHub"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,11 +219,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "2cd6a678015b4a45",
+  "active": "0359beaffead6c99",
   "lastOpenFiles": [
+    "test file to git.md",
+    "Test uchun.md",
+    "fist tets file",
     "README.md",
     "GitHub.md",
-    "Test uchun.md",
     "Добро пожаловать.md",
     "Object class.md"
   ]
