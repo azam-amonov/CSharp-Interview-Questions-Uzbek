@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Таблица
+    sort:
+      - property: file.name
+        direction: ASC

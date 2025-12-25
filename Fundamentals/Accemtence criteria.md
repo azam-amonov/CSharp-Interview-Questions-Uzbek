@@ -1,3 +1,4 @@
 __Accemtence criteria__  -- bu dasturda aniq talab qilinadigan vazifa ya'ni, dastur o'z yakunida nima vazifa bajarishi va mijoz uni qabul qilishidir. Agarda biz [[Technical requiment]]-ni umumiy bajariladigan yo'l xaritasi deb bilsak [[Accemtence criteria]] esa talablar ketma-ketligi bajarilganini aosolovchi hujjatdir. __[[C-sharp]]__ -da AC __[[Accemtence criteria]]__ ni __[[Unit-test]]__  ga qiyoslash mumkin. 
 
 __AC__  [[High-level Architecture (HLA)]]  ga ham o'xshaydi.
+#junToMid-1 
