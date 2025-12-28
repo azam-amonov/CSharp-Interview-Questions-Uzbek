@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"f7dda19398823207","x":-360,"y":-420,"width":250,"height":60,"type":"text","text":"[[C-sharp]]"},
-		{"id":"16bc012d3cdeb3b3","type":"text","text":"[[CLR (Common language runtime)]]","x":-20,"y":-320,"width":250,"height":60}
-	],
-	"edges":[
-		{"id":"0b5d63f76e58db79","fromNode":"f7dda19398823207","fromSide":"right","toNode":"16bc012d3cdeb3b3","toSide":"left"}
-	]
-}
