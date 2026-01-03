@@ -8,7 +8,7 @@ CLR [[private]] bo'lgan bo'lgan o'zgaruvchilarga tashqaridan hechkim o'zgartirib
 
 Metadata esa [[public]] #keyWord bilan belginlangan qolgan servislar undan foydalanish mumkin ekanini xabar beradi.
 
-Code example:
+**Code example:**
 
 ```C#
 public class BankAccount
@@ -16,6 +16,7 @@ public class BankAccount
 	// Inkapsulatsia qilingan filed - tashqi dunyodan yashirilgan! 
 	private decimal _balance;
 	
+	// Tashqi servislar uchun ochiq metod!
 	public void Deposit(decimal amount)
 	{
 		if(amount > 0)
@@ -26,6 +27,20 @@ public class BankAccount
 }
 ```
 
+**Metadatada qanday ko'rinadi (CLR View)** 
+
+Yozilgan kod [[DLL]] yoki [[EXE]] ga kompilatsiya bo'lgandan so'ng, komplaytor metadata tablitsasini yaratadi! Agarda biz uni ILDASM yoki ildasm.exe orgaqil ochsak quyidagilarni ko'rishimiz mumkin.
+1. [[FiledDef]] (filed definition)
+	-  Filed: `_balance`
+	-  Foydlanish ruxsati (access flag): `Private`
+	-  Tip (Type): `System.Decimal`
+
+2. [[MethodDef]] (method definition) 
+	-  Method: `Deposit`
+	-  Foydalanish ruxsati (access flag): `Public`
+	-  Signatura: `Decimal` qabul qiladi, `void` qaytaradi.
+
+Qachonki boshqa bir class `account._balance = 100` amaliyotini bajarmoqchi bo'lsa, [[JIT]]-komplyator [[FiledDef]] tablitsasi bilan bo'glanadi. [[private]] flag (bayroq) ni ko'rgach kod yozish boshlanishi bilan xatolik beriadi.
 
 
 #oop #junToMid-8 
