@@ -6,7 +6,7 @@ Inkapsulatsiya bu servis yoki metoddagi user uchun ochiq bo'lishi kerak bo'lmaga
 [[Metadata]] va [[CLR (Common language runtime)]] ishlash mexanizmi:
 CLR [[private]] bo'lgan bo'lgan o'zgaruvchilarga tashqaridan hechkim o'zgartirib qo'ymasligni ta'minlaydi. Bu bizning bankomatdagi, pullar va mezanizimlar.
 
-Metadata esa [[public]] #keyWord bilan belginlangan qolgan servislar undan foydalanish mumkin ekanini xabar beradi.
+Metadata esa [[public]] bilan belginlangan qolgan servislar undan foydalanish mumkin ekanini xabar beradi.
 
 **Code example:**
 
