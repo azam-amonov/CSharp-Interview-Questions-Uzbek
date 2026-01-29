@@ -1,2 +1,2 @@
 # obsidian-personal
-private repo to testing obsidian
+Dasturlash sohasida 0-dan Arxitektor darajasiga yetkazadigan tarjiribaga asoslanasigan yo'l xaritasi!
