@@ -1,0 +1,12 @@
+## Savol N_9 Umumiy savollar
+
+---
+
+### Constructor nima?
+
+---
+
+Constructor bu bir maxsus method turi hisoblanadi va bu bitta object ning yangi instance ni
+yaratish uchun ishlatiladi. Constructor bu bitta yaratilgan type nomi bilan bir xil bo'ladi.
+Siz qachonki default orqali yangi class yoki struct yaratmoqchi bolganingizda, siz usha yaratgan 
+class yoki struct ning yangi instance ni yaratish uchun default constructor dan foydalanasiz.
